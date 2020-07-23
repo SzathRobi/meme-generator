@@ -1,0 +1,15 @@
+.memeList-toggler {
+  padding: 0.3rem;
+  color: #025e3f;
+  position: absolute;
+  left: 10rem;
+  transition: 500ms;
+  z-index: 3;
+  font-size: 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  .memeList-toggler {
+    display: none;
+  }
+}

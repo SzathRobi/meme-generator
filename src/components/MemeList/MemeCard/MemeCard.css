@@ -1,0 +1,14 @@
+.meme-card {
+  width: 100%;
+  border: 3px solid #000;
+  border-radius: 6px;
+  margin: 0.5rem 0;
+  box-shadow: 4px 4px 8px;
+  position: relative;
+  cursor: pointer;
+}
+
+.memeImg {
+  width: 100%;
+  border-radius: 6px;
+}
